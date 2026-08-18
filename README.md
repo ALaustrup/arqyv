@@ -173,3 +173,7 @@ Full OpenAPI docs: `http://localhost:8765/docs`
 ## License
 
 MIT © 2025 Alaustrup
+
+---
+
+by ASTRA MATRIX
